@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duy Tay To</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/522130632_1821530515454908_5407107336837106508_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Ze57n7l9H18Q7kNvwF2e2To&_nc_oc=AdlROGExh238fY9KEFBu3Jxq3Be9LW8AgYBsq0RP3UEfGdSUoEUshGIKSKHm8tbA6_I&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=9NC7AU6p5g6_7P14eYQM5w&oh=00_AfTVyq4NxAgJVrOBW7bGEjwC0Vhp5xIoisIo38MHxbsZCA&oe=68870998" alt="duydofe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="150px" height="150px" src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/522130632_1821530515454908_5407107336837106508_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Ze57n7l9H18Q7kNvwF2e2To&_nc_oc=AdlROGExh238fY9KEFBu3Jxq3Be9LW8AgYBsq0RP3UEfGdSUoEUshGIKSKHm8tbA6_I&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=9NC7AU6p5g6_7P14eYQM5w&oh=00_AfTVyq4NxAgJVrOBW7bGEjwC0Vhp5xIoisIo38MHxbsZCA&oe=68870998" alt="duydofe" /></a> </p>
 
 - 🔭 I’m currently working on **HeroOut**
 
