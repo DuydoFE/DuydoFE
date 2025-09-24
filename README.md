@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="300px" height="300px" src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/522130632_1821530515454908_5407107336837106508_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Ze57n7l9H18Q7kNvwF2e2To&_nc_oc=AdlROGExh238fY9KEFBu3Jxq3Be9LW8AgYBsq0RP3UEfGdSUoEUshGIKSKHm8tbA6_I&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=9NC7AU6p5g6_7P14eYQM5w&oh=00_AfTVyq4NxAgJVrOBW7bGEjwC0Vhp5xIoisIo38MHxbsZCA&oe=68870998" alt="duydofe" />
+    <img width="300px" height="300px" src="https://scontent.fsgn5-13.fna.fbcdn.net/v/t39.30808-1/485128679_1723999535208007_6153567380424379138_n.jpg?stp=dst-jpg_s160x160_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEoQmT4LQQ8ADBwZx24NsXjOs7avXhHabY6ztq9eEdptvIFsQMWFVo9m9vDXV8Z-n_yqpXt14UQIc8-srOD-4O8&_nc_ohc=gABET8ALeaoQ7kNvwFz9GDt&_nc_oc=Adl9YEqpKr_53AA6gTvF_Fu2-5tmJUCcz76-BzG2k2WqkdO3T-JS6PmOe3YYuF_iwsDTederNM9RaYi_8EU1zuMs&_nc_zt=24&_nc_ht=scontent.fsgn5-13.fna&_nc_gid=o3Z26sjmaRc-VviGeDRVCw&oh=00_AfZFlsantgi24DLfkG7hF7vpTTpRh8UWxAf_dKIB86NHYQ&oe=68D9692C" alt="duydofe" />
   </a>
 </p>
 
